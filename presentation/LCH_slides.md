@@ -13,45 +13,45 @@ University of Kansas School of Law
 
 ---
 
-![History of Conspiracy Theories](../images/witch_trials.jpg)
+![History of Conspiracy Theories width:1500px](../images/witch_trials.jpg)
 
 ---
 
-![Conspiracy Theories about Children](../images/newsweek_cover.jpeg)
+![Conspiracy Theories about Children width:1500px](../images/newsweek_cover.jpeg)
 
 ---
 
-![Satanic Day Care Panic](../images/satan_wants_you.jpg)
+![Satanic Day Care Panic width:1500px](../images/satan_wants_you.jpg)
 
 ---
 
-![Michelle Remembers](../images/michelle_remembers.jpg)
+![Michelle Remembers width:600px](../images/michelle_remembers.jpg)
 
 ---
 
-![McMartin Preschool and Other Trials](../images/mcmartin_preschool.jpg)
+![McMartin Preschool and Other Trials width:800px](../images/mcmartin_preschool.jpg)
 
 ---
 
-![20/20 Ad](../images/20_20_ad.jpg)
+![20/20 Ad width:500px](../images/20_20_ad.jpg)
 
 ---
 
-![Pizzagate](../images/comet_pizza.jpg)
+![Pizzagate width:1500px](../images/comet_pizza.jpg)
 
 ---
 
-![QAnon](../images/q_crowd.jpg)
+![QAnon width:1500px](../images/q_crowd.jpg)
 
 ---
 
-![Separating Fact and Fiction](../images/save_the_children.jpg)
+![Separating Fact and Fiction width:800px](../images/save_the_children.jpg)
 
 * Separating Fact and Fiction
 
 ---
 
-![Conspiracy vs. Culture](../images/savile.jpeg)
+![Conspiracy vs. Culture width:800px](../images/savile.jpeg)
 
 * Conspiracy vs. Culture
 

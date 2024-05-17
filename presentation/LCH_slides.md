@@ -10,6 +10,11 @@ marp: true
 Corey Rayburn Yung
 University of Kansas School of Law
 
+
+---
+
+![History of Conspiracy Theories](../images/witch_trials.jpg)
+
 ---
 
 ![Conspiracy Theories about Children](../images/newsweek_cover.jpeg)
@@ -24,24 +29,45 @@ University of Kansas School of Law
 
 ---
 
+![McMartin Preschool and Other Trials](../images/mcmartin_preschool.jpg)
+
+---
+
+![20/20 Ad](../images/20_20_ad.jpg)
+
+---
+
+![Pizzagate](../images/comet_pizza.jpg)
+
+---
+
+![QAnon](../images/q_crowd.jpg)
+
+---
+
+![Separating Fact and Fiction](../images/save_the_children.jpg)
+
+* Separating Fact and Fiction
+
+---
+
+![Conspiracy vs. Culture](../images/savile.jpeg)
+
+* Conspiracy vs. Culture
+
+---
+
+
+
 <style>
 section {font-family: "xkcd", serif;}
 </style>
 
 ## **Resources**
   
-- Code for Charts and Slides hosted on:
-  - ![GitHub](https://img.shields.io/badge/GitHub-navy?style=for-the-badge&logo=github&labelColor=gray): https://github.com/WithPrecedent/conspiracy_child_abuse
-
-- Charts made using:
-  - ![Python Version](https://img.shields.io/badge/Python%203.11-navy?style=for-the-badge&logo=python&labelColor=gray)
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-purple?style=for-the-badge&logo=plotly&labelColor=gray)
-  - ![Pandas](https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=pandas&labelColor=gray)
+- Slides hosted on:
+  - ![GitHub](https://img.shields.io/badge/GitHub-navy?style=for-the-badge&logo=github&labelColor=gray): https://github.com/WithPrecedent/conspiracy_child_abuse/presentation
 
 - Slides made using: 
   - ![Markdown](https://img.shields.io/badge/Markdown-magenta?style=for-the-badge&logo=markdown&labelColor=gray)
   - ![Marp](https://img.shields.io/badge/Marp-lightseagreen?style=for-the-badge&logo=markdown&labelColor=gray) for ![VS Code](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode&labelColor=gray)
-
-- Title page made using: 
-  - ![Microsoft Bing](https://img.shields.io/badge/Microsoft%20Bing-orangered?style=for-the-badge&logo=microsoftbing&labelColor=gray) (powered by DALL·E 3): https://www.bing.com/create
-

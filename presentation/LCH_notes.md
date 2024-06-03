@@ -5,10 +5,9 @@
   * Conspiracy theories not new
     * Part of the US founding - pamphleteers for and against the Constitution used a wide range of wholly fictional conspiracies
     * Children have long been focal point of conspiracy theories - in the first century BC, Cicero accused members of the Catiline conspiracy of taking their oaths over a dead boy who they ate and ordered them executed without trial
-    * Blood libel against Jews
     * Witch trials in the 15th through 17th centuries accused people of ritualistic child murder
-* Satanic Day Care Panic -lasted for over a decade, consumed media attention, numerous trials and convictions (not all allegations involved Satanism, but the defendants were all involved in child care)
-* Seeds of the panic were planted here in Canada with the publication in 1980 of the now-discredited book "Michelle Remembers", authored by psychologist Lawrence Pazder and his patient Michelle Smith
+* Satanic Day Care Panic - lasted for over a decade, consumed media attention, numerous trials and convictions (not all allegations involved Satanism, but the defendants were all involved in child care)
+* Seeds of the panic were planted here in British Columbia with the publication in 1980 of the now-discredited book "Michelle Remembers", authored by psychologist Lawrence Pazder and his patient Michelle Smith
   * Relied on recovered memory of Smith in therapy with Pazder of ritualistic Satanic abuse (which included rape and sexual assault)
   * Pazder becomes the go-to expert on such abuse and worked with prosecutors in the highest profile trials based on similar allegations in the US
 * McMartin Preschool (Manhattan Beach, CA)
@@ -43,11 +42,13 @@
 * Conspiracy vs. Culture
   * How to Lie with Rape Statistics
   * Rape Law Gatekeeping connected data analysis with narratives
-  * Conspiracy relies on coordination
+  * Conspiracy relies on coordination and coverup - culture doesn't
   * Quality of evidence varies
-  * Jimmy Savile
+  * Sir Jimmy Savile
     * Sexual abuse of mostly children over 60 years
     * Took advantage of access to children's charities at hospitals and other locations
     * No reckoning during his lifetime (died at 84 in 2011 as a beloved icon)
     * 2 investigations in his life (first in 1958) and significant presence in whisper networks
+    * BBC and police repeatedly ignored and disbelieved accusations (not because of conspiracy, but reflection of culture)
+    * Hundreds of victims - actual number unknown
 * Resources
